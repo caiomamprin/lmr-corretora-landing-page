@@ -89,7 +89,7 @@ export function Header() {
                 </Link>
               ))}
               <a
-                href="https://wa.me/5500000000000"
+                href="https://wa.me/5511994330821?text=Olá,%20gostaria%20de%20receber%20mais%20informações%20sobre%20os%20planos%20de%20saúde."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-2"
